@@ -1,5 +1,5 @@
 - 👋 Hi! I’m @ValentinaValverde.
-- 👀 I’m interested in learning to code more efficiently and effectively.
+- 👀 I’m interested in frontend and UI/UX projects!
 - 📚 My stack includes: Django, Shopify's Hydrogen, React, and Remix
 - 📖 Languages I know: HTML, CSS, Javascript, Python, GraphQL, and SQL
 - 🌱 I’m currently learning React Native and more about GraphQL!
