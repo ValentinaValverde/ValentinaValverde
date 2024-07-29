@@ -2,7 +2,7 @@
 - 📍 I'm located in Greenville, SC
 - 🤤 I'm interested in Frontend and UI/UX projects
 - 💖 Tech I LOVE:
-    - Typescript, Javascript, React, React Native, & Next,js
+    - Typescript, Javascript, React, React Native, & Next.js
  - 👀 Other tech I've worked with:
     - Python, SQL, Posgres, Django, MongoDB, Hydrogen, GraphQL, NotionDB, etc.
  - 🌱 I'm currently advancing my knowledge in frontend web development
